@@ -4,3 +4,8 @@
   font-size: large;
 }
 /*TODO: Implementa el estilo notPalindrome */
+.notPalindrome{
+  color: white;
+  background-color: purple;
+  font-size: large;
+}
